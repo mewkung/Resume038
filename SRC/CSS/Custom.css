@@ -1,0 +1,17 @@
+.bg-dark {
+    background-color:rgb(100, 19, 175)!important;
+}
+.navbar-expand-sm .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    font-size: 18px;
+}
+.col{
+    font-family:'Prompt', sans-serif;
+}
+#simbol{
+    font-family:'Prompt', sans-serif;
+}
+.card{
+    box-shadow: 1px 1px 6px 1px;
+}
